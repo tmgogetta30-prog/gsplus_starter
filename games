@@ -1,0 +1,4 @@
+date,time_et,away,home,away_sp_name,away_sp_era,away_sp_kpct,away_team_ops,away_last10_ops,away_bullpen_era,away_rookie_sp,home_sp_name,home_sp_era,home_sp_kpct,home_team_ops,home_last10_ops,home_bullpen_era,home_rookie_sp,park_factor_runs,ump_confirmed,roof_confirmed
+2025-08-28,1:05 PM,BOS,BAL,Crochet,3.20,0.30,0.760,0.740,3.90,0,Kremer,4.10,0.24,0.730,0.700,4.20,0,1.02,0,1
+2025-08-28,2:10 PM,COL,HOU,Freeland,4.80,0.18,0.700,0.710,4.60,0,Alexander,3.40,0.26,0.780,0.790,3.60,0,1.00,1,1
+2025-08-28,8:10 PM,NYY,CWS,Gil,3.10,0.29,0.790,0.800,3.50,0,Toussaint,4.90,0.22,0.690,0.680,4.80,0,0.98,0,1
